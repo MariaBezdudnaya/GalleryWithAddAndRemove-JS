@@ -24,7 +24,7 @@ h1 {
 }
 
 img {
-  width: 200px;
+  width: 300px;
   box-sizing: border-box;
   margin: 5px;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);
@@ -82,7 +82,7 @@ button:hover {
   transition: 0.5s;
 }
 .fullScreen img {
-  width: 25%;
+  width: 40%;
 }
 
 .loading {
