@@ -14,5 +14,21 @@
   { "id": 13, "download_url": "./img/13.webp", "author": "Nelson Thomas" },
   { "id": 14, "download_url": "./img/14.webp", "author": "Shawn Jones" },
   { "id": 15, "download_url": "./img/15.webp", "author": "James Reed" },
-  { "id": 16, "download_url": "./img/16.webp", "author": "Keith Taylor" }
+  { "id": 16, "download_url": "./img/16.webp", "author": "Keith Taylor" },
+  { "id": 17, "download_url": "./img/17.jpg", "author": "Alejandro Escamilla" },
+  { "id": 18, "download_url": "./img/18.webp", "author": "Guillaume Kurkdjian" },
+  { "id": 19, "download_url": "./img/19.webp", "author": "Steven Spillebeen" },
+  { "id": 20, "download_url": "./img/20.webp", "author": "Christopher Campbell" },
+  { "id": 21, "download_url": "./img/21.webp", "author": "Jerome Clark" },
+  { "id": 22, "download_url": "./img/22.webp", "author": "Gene Pratt" },
+  { "id": 23, "download_url": "./img/23.webp", "author": "Thomas Wells" },
+  { "id": 24, "download_url": "./img/24.webp", "author": "Brian Tate" },
+  { "id": 25, "download_url": "./img/25.webp", "author": "James Harvey" },
+  { "id": 26, "download_url": "./img/26.webp", "author": "Walter Anderson" },
+  { "id": 27, "download_url": "./img/27.webp", "author": "George Miller" },
+  { "id": 28, "download_url": "./img/28.webp", "author": "Matthew Baker" },
+  { "id": 29, "download_url": "./img/29.webp", "author": "Nelson Thomas" },
+  { "id": 30, "download_url": "./img/30.jpg", "author": "Shawn Jones" },
+  { "id": 31, "download_url": "./img/31.jpg", "author": "James Reed" },
+  { "id": 32, "download_url": "./img/32.jpg", "author": "Keith Taylor" }
 ]
